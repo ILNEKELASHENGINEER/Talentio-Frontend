@@ -1,0 +1,28 @@
+{
+  "register": [
+    {
+      "id": "6d17",
+      "firstname": "veenas",
+      "lastname": "kumar",
+      "email": "venaskumar812@gmail.com",
+      "phonenumber": "9360678099",
+      "address": "41,Thiruvalluvar Street,Dharapuram"
+    },
+    {
+      "id": "2443",
+      "firstname": "Rohith",
+      "lastname": "Senthil",
+      "email": "rohit@gmail.com",
+      "phonenumber": "7598513121",
+      "address": "Neyveli"
+    },
+    {
+      "id": "d382",
+      "firstname": "Aswath",
+      "lastname": "murugan",
+      "email": "aswath@gmail.com",
+      "phonenumber": "9944724980",
+      "address": "Coimbatore"
+    }
+  ]
+}
