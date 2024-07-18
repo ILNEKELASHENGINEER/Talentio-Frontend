@@ -24,6 +24,7 @@ export const MainPage = () => {
         </div>
         <div className='flex flex-col'>
             <h2 className='font-bold text-[30px]'>Show to try</h2>
+            <h2 className='font-bold text-[30px]'>new change from branch testbranch</h2>
             <div className='flex  gap-[1rem]'>
             {
                 songsData.map((item)=> <MusicCard key={item.id} props={item}/>)
