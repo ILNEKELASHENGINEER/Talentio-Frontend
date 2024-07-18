@@ -13,6 +13,8 @@ export const MainPage = () => {
         <Navbar />
         <div className='flex flex-col gap-[1rem]'>
             <h1 className='font-bold text-[30px]'>Try something else</h1>
+            <h1 className='font-bold text-[30px]'>Try something else</h1>
+            <h1 className='font-bold text-[30px]'>Try something else</h1>
         <div className='flex gap-[2rem]'>
         {
             
